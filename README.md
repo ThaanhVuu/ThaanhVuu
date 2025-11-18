@@ -19,23 +19,23 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg))
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png)
-![HTML](https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png)
-![CSS](https://images.viblo.asia/2a35653e-a0c9-4e35-994b-e3215541414f.png)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![HTML](https://img.shields.io/badge/logo-HTML5-e34f26?label=&amp;labelColor=555555&amp;logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 - ### Frameworks and Libraries
-- ![Springboot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYpm7ZZrn4BjNdFOOZuMwSKjJh-km-XfiOQ&s)
-- ![SpringSecurity](https://huongdanjava.com/wp-content/uploads/2019/07/spring-security.png)
-- ![Laravel](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png)
-- ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png)
-- ![Bootswatch](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU73_v3WmNaoXiRIX_EziOhsxRE3LC5SBLSw&s)
-- ![Nextjs](https://images.viblo.asia/171ffa2b-6b95-4ec8-838e-f8d8eedbd229.png)
-- ![Reactjs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s)
+- ![SpringFramework](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 - ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
 
 ## <img src="gifs/handshake.gif" width ="80"><b> Let's Connect!</b>
